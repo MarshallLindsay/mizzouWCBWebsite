@@ -1,1 +1,1 @@
-# mizzouWCBWebsite
+# Mizzou Wheelchair Basketball Website
